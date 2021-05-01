@@ -1,0 +1,41 @@
+{
+  "name": "react-nodebird-front",
+  "version": "1.0.0",
+  "description": "next.js study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build:": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolelly/react-nodebird_my.git"
+  },
+  "keywords": [
+    "react",
+    "nodebird",
+    "study"
+  ],
+  "author": "Young-Gi Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolelly/react-nodebird_my/issues"
+  },
+  "homepage": "https://github.com/lolelly/react-nodebird_my#readme",
+  "dependencies": {
+    "@ant-design/icons": "^4.6.2",
+    "antd": "^4.15.4",
+    "next": "^9.5.5",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-plugin-hooks": "^0.2.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
